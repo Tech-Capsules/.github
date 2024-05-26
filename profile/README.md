@@ -1,10 +1,12 @@
 # 📺 Tech Capsules
 
+![Cover](https://github.com/Tech-Capsules/.github/blob/main/profile/docs/images/FB-Cover.jpg?raw=true)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Tech.Capsules)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Tech.Capsules.yt)
-[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tech-Capsules/) 
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Tech-Capsules/)
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/tech-capsules-yt)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Tech_Capsules)
+
 
 Tech Capsules is a channel that aims to talk about technologies that a Software Engineer needs 🖥️💡
 
@@ -15,6 +17,7 @@ Other than that, there will be some videos for the updates in the field, such as
 Stay tuned for insightful content that bridges the gap between theory and practical implementation, and keeps you updated with the latest advancements in the tech world! 🌐🛠️
 
 ## 💻 Tech Capsules Technologies & Frameworks
+
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
